@@ -20,7 +20,7 @@ featured: false
 # 7 = Report;
 # 8 = Preprint / Working Paper;
 # 9 = Other
-#publication_types: ["8"]
+publication_types: ["6"]
 # Publication name and optional abbreviated publication name.
 publication: '*KDI/EWC series on Economic Policy*'
 
