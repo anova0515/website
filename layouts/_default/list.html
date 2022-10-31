@@ -1,0 +1,70 @@
+{{- define "main" -}}
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  {{ with .Content }}
+    <div class="article-style">{{ . }}</div>
+  {{ end }}
+
+
+      <div class="project-related-pages content-widget-hr">
+        {{ $allitems := .Data.Pages }}
+
+
+
+        {{ $items := where $allitems "Type" "post" }}
+        {{ $count := len $items }}
+        {{ if ge $count 1 }}
+          <h2>{{ (i18n "posts") }}</h2>
+          {{ range $index, $item := $items }}
+            {{ partial "functions/render_view" (dict "page" $ "item" . "view" (site.Params.projects.post_view | default "compact") "index" $index) }}
+          {{end}}
+        {{ end }}
+
+        {{ $items := where $allitems "Type" "publication" }}
+        {{ $pubs_len := len $items }}
+        {{ if ge $pubs_len 1 }}
+          <h2>{{ (i18n "publications") }}</h2>
+          {{ range $index, $item := $items }}
+            {{ partial "functions/render_view" (dict "page" $ "item" . "view" (site.Params.projects.publication_view | default "compact") "index" $index) }}
+          {{end}}
+        {{ end }}
+
+        {{ $items := where $allitems "Type" "draft-papers" }}
+        {{ $pubs_len := len $items }}
+        {{ if ge $pubs_len 1 }}
+          <h2> Draft Papers </h2>
+          <p>
+          For more details, <a href="mailto:catrin@ccampbell-moore.com"> email me</a>.
+          </p>
+          {{ range $index, $item := $items }}
+            {{ partial "functions/render_view" (dict "page" $ "item" . "view" (site.Params.projects.draftpapers_view | default "compact") "index" $index) }}
+          {{end}}
+        {{ end }}
+
+        {{ $items := where $allitems "Type" "project" }}
+        {{ $project_len := len $items }}
+        {{ if ge $project_len 1 }}
+          <h2>{{ (i18n "projects") }}</h2>
+          {{ range $index, $item := $items }}
+            {{ partial "functions/render_view" (dict "page" $ "item" . "view" (site.Params.projects.projects_view | default "compact") "index" $index) }}
+          {{end}}
+        {{ end }}
+
+
+        {{ $items := where $allitems "Type" "talk" }}
+        {{ $talks_len := len $items }}
+        {{ if ge $talks_len 1 }}
+          <h2>{{ (i18n "talks") }}</h2>
+          {{ range $index, $item := $items }}
+            {{ partial "functions/render_view" (dict "page" $ "item" . "view" (site.Params.projects.talk_view | default "compact") "index" $index) }}
+          {{end}}
+        {{ end }}
+      </div>
+    </div>
+
+
+</div>
+
+{{- end -}}
