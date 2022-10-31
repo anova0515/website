@@ -22,6 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Assistant
+    company: University of Calgary
+    company_url: ''
+#    company_logo: ahs_logo
+    location: Calgary, AB
+    date_start: '2017-09-01'
   - title: Infectious Disease Modeler
     company: Alberta Health Services
     company_url: ''
