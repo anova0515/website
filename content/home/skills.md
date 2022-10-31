@@ -20,15 +20,21 @@ feature:
     icon: r-project
     icon_pack: fab
     name: R
-  - description: Causal Inference, Forecasting
-    icon: chart-line
-    icon_pack: fas
-    name: Econometrics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
 
+  - description: Natural Language Processing, Record Linkage
+    icon: python
+    icon_pack: fab
+    name: Python
+
+#  - description: Causal Inference, Forecasting
+#    icon: "chart-line"
+#    icon_pack: "fas"
+#    name: Econometrics
+
+  - description: Data Visualization, Econometric Analysis
+    icon: 'STATA16_icon'
+    icon_pack: "custom"
+    name: Stata
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
