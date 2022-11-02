@@ -22,25 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant
+  - title: Research Assistant to Alex Whalley & Lucija Muehlenbachs
     company: University of Calgary
     company_url: ''
 #    company_logo: ahs_logo
     location: Calgary, AB
     date_start: '2017-09-01'
-  - title: Infectious Disease Modeler
+    description: |2-
+        Responsibilities include:
+        
+        * Implementing clustering-based disambiguation and linking records across large data sets
+        * Developing topic classification algorithms based on textual patent data
+        * Training prediction models for seasonal opening/closure dates of ice roads in Canada
+        * Leading and training team members on supporting tasks
+  - title: Senior Analyst
     company: Alberta Health Services
     company_url: ''
 #    company_logo: ahs_logo
     location: Calgary, AB
     date_start: '2019-05-15'
     date_end: '2020-12-30'
-#    description: |2-
-#        Responsibilities include:
-#        
-#        * Analysing
-#        * Modelling
-#        * Deploying
+    description: |2-
+        Responsibilities include:
+        
+        * Obtaining research ethics approval for right to analyze confidential healthcare data
+        * Delivering a machine learning ensemble model for predicting hospital visit volumes
+        * Designing methodology for policy evaluation of a mental health support program
+        * Writing reports and communicating findings to stakeholders
 
   - title: Junior Economist
     company: Natural Resources Canada
@@ -49,6 +57,12 @@ experience:
     location: Ottawa, ON, Canada
     date_start: '2016-01-01'
     date_end: '2016-08-31'
+    description: |2-
+        Responsibilities include:
+        
+        * Updating database of energy savings due to adoption of energy-efficient appliances
+        * Modelling firms' strategic response to energy efficient certifications
+        * Computing causal effect of energy savings due to the ENERGY STAR program
 #    description: Taught electronic engineering and researched semiconductor physics.
 
   - title: Junior Analyst
@@ -58,6 +72,11 @@ experience:
     location: Ottawa, On, Canada
     date_start: '2015-05-01'
     date_end: '2020-08-30'
+    description: |2-
+        Responsibilities include:
+        
+        * Developing an upward feedback tool for the department's respectful workplaces initiative
+        * Writing report on respect at work and job satisfaction
 
 design:
   columns: '2'
