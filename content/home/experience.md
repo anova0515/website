@@ -50,6 +50,19 @@ experience:
         * Designing methodology for policy evaluation of a mental health support program
         * Writing reports and communicating findings to stakeholders
 
+  - title: Instructor -- Use of Statistics in Economics
+    company: University of Calgary
+    company_url: ''
+#    company_logo: org-x
+    location: Calgary, AB, Canada
+    date_start: '2020-06-27'
+    date_end: '2020-08-26'
+    description: |2-
+        Responsibilities include:
+        
+        * Effectively delivering lectures on topics of statistical estimation of economic relationships (see student feedback on [RateMyProfessor](https://www.ratemyprofessors.com/professor?tid=2612264))
+        * Coordinating tutorial sessions and grading with course teaching assistants
+        * Teaching principles of data wrangling and analysis using R in optional coding sessions
   - title: Junior Economist
     company: Natural Resources Canada
     company_url: ''
