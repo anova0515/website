@@ -3,7 +3,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: University of Calgary
-    year: 2023 (expected)
+    year: 08/2023 (expected)
   - course: MA in Economics
     institution: University of Ottawa
     year: 2016

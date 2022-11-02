@@ -7,7 +7,9 @@ authors:
 - admin
 - Alex Whalley
 - Shawn Kantor
-date: "2022-9-26T00:00:00Z"
+date: "2022-09-26T00:00:00Z"
+date_print: "Current version: October 2022"
+show_date: false
 doi: ""
 featured: false
 image:
@@ -16,7 +18,8 @@ image:
   preview_only: true
 publication_types:
 - "7"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-09-26T00:00:00Z"
+publication: "Working Paper"
 summary: "We investigate how scientists’ outside options affect their wages and knowledge production. We document
 how the abrupt end of draft deferrals for American graduate students in 1967 sharply changed
 the outside option of young working male scientists. A triple difference analysis reveals scientist

@@ -5,7 +5,7 @@ authors:
 - Alex Whalley
 date: 2022-04-07
 date_print: "Forthcoming"
-show_date: false
+show_date: true
 
 featured: false
 
