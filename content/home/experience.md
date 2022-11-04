@@ -88,7 +88,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Developing an upward feedback tool for the department's respectful workplaces initiative
+        * Developing an upward feedback tool for department's respectful workplaces initiative
         * Writing report on respect at work and job satisfaction
 
 design:
