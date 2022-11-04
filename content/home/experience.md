@@ -31,7 +31,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Implementing clustering-based disambiguation and linking records across large data sets
+        * Implementing clustering-based disambiguation and linking records across big data sets
         * Developing topic classification algorithms based on textual patent data
         * Training prediction models for seasonal opening/closure dates of ice roads in Canada
         * Leading and training team members on supporting tasks
