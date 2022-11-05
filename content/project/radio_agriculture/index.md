@@ -3,8 +3,8 @@ abstract: I use the early twentieth-century establishment of commercial radio in
 authors:
 - admin
 show_date: true
-date: "2022-10-26T00:00:00Z"
-date_print: "Current version: October 2022"
+date: "2022-11-26T00:00:00Z"
+date_print: "Current version: November 2022"
 doi: ""
 featured: false
 image:
