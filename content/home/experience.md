@@ -41,7 +41,7 @@ experience:
 #    company_logo: ahs_logo
     location: Calgary, AB
     date_start: '2019-05-15'
-    date_end: '2020-12-30'
+    date_end: '2021-12-30'
     description: |2-
         Responsibilities include:
         
