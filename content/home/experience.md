@@ -84,7 +84,7 @@ experience:
 #    company_logo: ahs_logo
     location: Ottawa, On, Canada
     date_start: '2015-05-01'
-    date_end: '2020-08-30'
+    date_end: '2015-08-30'
     description: |2-
         Responsibilities include:
         
