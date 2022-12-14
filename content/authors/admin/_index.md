@@ -49,4 +49,4 @@ Welcome to my website!  I am a Ph.D. Candidate in Economics at the University of
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume_current.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/agriculture_change_and_radio_jmp.pdf" "newtab" >}}job market paper{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/agriculture_change_and_radio_jmp.pdf" "newtab" >}}job market paper{{< /staticref >}}(or listen to it at [The Visible Hand](https://www.thevisiblehand.uk/episodes/episode-57 "The Visible Hand Episode 57") podcast).
