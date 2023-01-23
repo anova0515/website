@@ -3,7 +3,7 @@ title: "Research Universities and Regional Growth"
 authors:
 - admin
 - Alex Whalley
-date: 2022-04-07
+date: 2023-04-07
 date_print: "Forthcoming"
 show_date: true
 
