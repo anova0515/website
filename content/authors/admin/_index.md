@@ -45,7 +45,8 @@ superuser: true
 title: Arthur Novaes de Amorim
 ---
 
-Welcome to my website!  I am a Ph.D. Candidate in Economics at the University of Calgary.
+Welcome to my website!  I am a Ph.D. Candidate in Economics at the University of Calgary. I conduct applied research on topics of labour markets, innovation and productivity. Throughout my Ph.D., I have acquired an in-depth knowledge of data science, econometrics and programming (e.g. Python, R). My projects make extensive use of parallel computing using Compute Canada Linux-based resources for processing large data sets.
+
 I will be joining Analysis Group at the Montreal office as an Associate starting in Fall 2023.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume_current.pdf" "newtab" >}}resumé{{< /staticref >}}.
