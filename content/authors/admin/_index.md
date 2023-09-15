@@ -15,8 +15,8 @@ first_name: Arthur
 highlight_name: true
 interests:
 - Applied Econometrics
-- Data Science
-- Policy Analysis
+- Labor Economics
+- Environmental Economics
 last_name: Novaes de Amorim, Ph.D.
 organizations:
 - name: Groupe d'analyse/Analysis Group

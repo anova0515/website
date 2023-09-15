@@ -25,18 +25,18 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: arthur.novaesdeamori@ucalgary.ca
-  phone: +1 (825) 365-8478
+  email: arthur.novaesdeamori@analysisgroup.ca
+  phone: +1 (438) 529-6624
   address:
-    street: 2500 University Dr. NW
-    city: Calgary
-    region: AB
-    postcode: 'T2N1N4'
+    street: 1190 Av. des Canadiens-de-Montreal Suite 1500
+    city: Montreal
+    region: QC
+    postcode: 'H3B0G7'
     country: Canada
     country_code: CA
   coordinates:
-    latitude: '51.0783'
-    longitude: '-114.1346'
+    latitude: '45.4967'
+    longitude: '-73.5682'
 design:
   columns: '2'
 ---
