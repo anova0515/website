@@ -3,7 +3,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: University of Calgary
-    year: 08/2023 (expected)
+    year: 2023
   - course: MA in Economics
     institution: University of Ottawa
     year: 2016
@@ -17,11 +17,11 @@ interests:
 - Applied Econometrics
 - Data Science
 - Policy Analysis
-last_name: Novaes de Amorim
+last_name: Novaes de Amorim, Ph.D.
 organizations:
-- name: University of Calgary
-  url: https://www.ucalgary.ca/
-role: PhD Candidate in Economics
+- name: Groupe d'analyse/Analysis Group
+  url: https://www.groupedanalyse.ca/
+role: Associate
 social:
 - icon: envelope
   icon_pack: fas
@@ -45,9 +45,7 @@ superuser: true
 title: Arthur Novaes de Amorim
 ---
 
-Welcome to my website!  I am a Ph.D. Candidate in Economics at the University of Calgary. I conduct applied research on topics of labour markets, innovation and productivity. Throughout my Ph.D., I have acquired an in-depth knowledge of data science, econometrics and programming (e.g. Python, R). My projects make extensive use of parallel computing using Compute Canada Linux-based resources for processing large data sets.
-
-I will be joining Analysis Group at the Montreal office as an Associate starting in Fall 2023.
+Welcome to my website!  I am an Associate in litigation at Analysis Group (Montreal office) and hold a Ph.D. in Economics from the University of Calgary. My research interests are quite broad, but I recently work mostly on topics related to labour markets, innovation and productivity.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume_current.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
