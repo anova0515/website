@@ -3,12 +3,14 @@ title: "Evaluating the impact of Community Helpers Program on adolescents 12-18 
 authors:
 - Mohammad Habibullah Pulok
 - admin
+- Sandra Johansen
 - Kristin Pilon
+- Christina Lucente
 - Vineet Saini
 
 
 date: 2024-03-11
-date_print: "Forthcoming"
+date_print: "April 29, 2024"
 show_date: true
 
 featured: false
@@ -36,7 +38,6 @@ publication: '*Canadian Journal of Public Health*'
 doi: ""
 projects: []
 tags:
-- Mental Health
-#- Education
-#url_preprint: /media/whalley_amorim_kdi_preprint.docx
+- Mental Disorders / epidemiology
+url_pdf: https://pubmed.ncbi.nlm.nih.gov/38683287/
 ---
