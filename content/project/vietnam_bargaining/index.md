@@ -1,14 +1,13 @@
 ---
-abstract: "We investigate how scientists’ outside options affect their wages and knowledge production. We document
+abstract: "We investigate how scientists’ outside options affect their knowledge production. We document
 how the abrupt end of draft deferrals for American graduate students in 1967 sharply changed
-the outside option of young working male scientists. A triple difference analysis reveals scientist
-wages are sensitive to outside option changes, but their knowledge production is not."
+the outside option of young working male scientists."
 authors:
-- admin
-- Alex Whalley
 - Shawn Kantor
-date: "2022-09-26T00:00:00Z"
-date_print: "Current version: October 2022"
+- admin
+- Alexander Whalley
+date: "2024-11-10T00:00:00Z"
+date_print: "Current version: November 2024"
 show_date: false
 doi: ""
 featured: false
@@ -18,14 +17,13 @@ image:
   preview_only: true
 publication_types:
 - "7"
-publishDate: "2022-09-26T00:00:00Z"
+publishDate: "2024-11-10T00:00:00Z"
 publication: "Working Paper"
-summary: "We investigate how scientists’ outside options affect their wages and knowledge production. We document
+summary: "We investigate how scientists’ outside options affect their knowledge production. We document
 how the abrupt end of draft deferrals for American graduate students in 1967 sharply changed
-the outside option of young working male scientists. A triple difference analysis reveals scientist
-wages are sensitive to outside option changes, but their knowledge production is not."
+the outside option of young working male scientists."
 tags: []
-title: 'Outside Options in the Labor Market: Evidence from Vietnam Draft Avoidance'
+title: 'Researchers, Ideas, and Economic Growth: Evidence from Vietnam Draft Avoidance'
 ---
 
 
