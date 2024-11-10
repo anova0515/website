@@ -22,6 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Associate (Litigation)
+    company: Analysis Group
+    company_url: ''
+#    company_logo: ag
+    location: Montreal, QC
+    date_start: '2024-09-05'
+    description: |2-
+        Practice areas:
+        
+        * Antitrust & Competition
+        * Commercial Disputes
   - title: Research Assistant to Alex Whalley & Lucija Muehlenbachs
     company: University of Calgary
     company_url: ''
