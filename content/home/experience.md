@@ -27,7 +27,7 @@ experience:
     company_url: ''
 #    company_logo: ag
     location: Montreal, QC
-    date_start: '2024-09-05'
+    date_start: '2023-09-05'
     description: |2-
         Practice areas:
         
