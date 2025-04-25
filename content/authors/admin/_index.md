@@ -45,7 +45,7 @@ superuser: true
 title: Arthur Novaes de Amorim
 ---
 
-Welcome to my website!  I am an Associate in litigation at Analysis Group (Montreal office) and hold a Ph.D. in Economics from the University of Calgary. My research interests are quite broad, but I recently work mostly on topics related to labour markets, innovation and productivity.
+Welcome to my website!  I am an Associate at Analysis Group (Montreal office) and hold a Ph.D. in Economics from the University of Calgary. My research interests are on topics related to labour markets, innovation and productivity.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume_current.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
