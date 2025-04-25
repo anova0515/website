@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: arthur.novaesdeamori@analysisgroup.ca
+  email: arthur.novaesdeamorim@analysisgroup.ca
   phone: +1 (438) 529-6624
   address:
     street: 1190 Av. des Canadiens-de-Montreal Suite 1500
