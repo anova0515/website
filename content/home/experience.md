@@ -26,13 +26,15 @@ experience:
     company: Analysis Group
     company_url: ''
 #    company_logo: ag
-    location: Montreal, QC
+    location: Toronto, ON
     date_start: '2023-09-05'
     description: |2-
         Practice areas:
         
         * Antitrust & Competition
         * Commercial Disputes
+        * Valuation
+        * Energy Climate & Natural Resources
   - title: Research Assistant to Alex Whalley & Lucija Muehlenbachs
     company: University of Calgary
     company_url: ''
