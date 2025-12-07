@@ -6,22 +6,22 @@ title: Música
 
 Em meu tempo livre, eu me deleito tocando piano solo ou colaboro com musicistas (mais talentosos). Algumas de minhas performances foram capturadas em vídeo. Assista se tiver coragem!
 
-## John Adams - China Gates for solo piano
+## John Adams - China Gates para piano solo
 
 {{< youtube X2zM1fQ06vc >}}
 
-## Samuel Barber - Sonata for Violoncello and Piano, Opus 6, First Movement (Maria Wang, cello)
+## Samuel Barber - Sonata para Violoncelo e Piano, Opus 6, Primeiro Movimento (Maria Wang, violoncelo)
 
 {{< youtube 2sdR06Xm2wo >}}
 
-## Gabriel Fauré - Dolly Suite, Opus 56 (Hazel Seong, primo)
+## Gabriel Fauré - Suite Dolly, Opus 56 (Hazel Seong, primo)
 
 {{< youtube TnFhL91xGms >}}
 
-## Moritz Moszkowski - 5 Spanish Dances, Opus 56 (Hazel Seong, primo)
+## Moritz Moszkowski - 5 Danças Espanholas, Opus 56 (Hazel Seong, primo)
 
 {{< youtube -_tu2YxNmms >}}
 
-## Franz Schubert - Fantasia in F Minor, D.940 (Hazel Seong, secondo)
+## Franz Schubert - Fantasia em Fá Menor, D.940 (Hazel Seong, secondo)
 
 {{< youtube uqoi1TksmBM >}}
