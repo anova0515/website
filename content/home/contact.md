@@ -27,16 +27,16 @@ content:
   # Contact details (edit or remove options as required)
   email: arthur.novaesdeamorim@analysisgroup.ca
   phone: +1 (438) 529-6624
-  address:
-    street: First Canadian Place, 100 King St W, Suite 4410
-    city: Toronto
-    region: ON
-    postcode: 'M5X1A9'
-    country: Canada
-    country_code: CA
-  coordinates:
-    latitude: '43.6485617'
-    longitude: '-79.3845318'
+#  address:
+#    street: First Canadian Place, 100 King St W, Suite 4410
+#    city: Toronto
+#    region: ON
+#    postcode: 'M5X1A9'
+#    country: Canada
+#    country_code: CA
+#  coordinates:
+#    latitude: '43.6485617'
+#    longitude: '-79.3845318'
 design:
   columns: '2'
 ---
