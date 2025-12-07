@@ -1,7 +1,7 @@
 ---
 education:
   courses:
-  - course: PhD em Economia
+  - course: Doutor em Economia
     institution: University of Calgary
     year: 2023
   - course: Mestre em Economia
@@ -50,4 +50,4 @@ Bem-vindo(a) ao meu site! Sou um Consultor Associado na Analysis Group em Toront
 
 {{< icon name="download" pack="fas" >}} Baixe meu {{< staticref "media/resume_current.pdf" "newtab" >}}currículo{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Baixe meu {{< staticref "media/agriculture_change_and_radio_jmp.pdf" "newtab" >}}job market paper{{< /staticref >}}(ou escute no podcast [The Visible Hand](https://www.thevisiblehand.uk/episodes/episode-57 "The Visible Hand Episode 57") podcast).
+{{< icon name="download" pack="fas" >}} Baixe meu {{< staticref "media/agriculture_change_and_radio_jmp.pdf" "newtab" >}}job market paper{{< /staticref >}}(ou escute no [The Visible Hand](https://www.thevisiblehand.uk/episodes/episode-57 "The Visible Hand Episode 57") podcast).
