@@ -43,6 +43,7 @@ social:
   link: https://www.linkedin.com/in/amorimarthur
 superuser: true
 title: Arthur Novaes de Amorim
+lang: "pt"
 ---
 
 Bem-vindo(a) ao meu site! Sou um Consultor Associado na Analysis Group em Toronto e tenho um doutorado em Economia pela Universidade de Calgary. Meus interesses de pesquisa incluem temas relacionados a mercados de trabalho, inovação e produtividade.
