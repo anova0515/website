@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
+title: Contato
 subtitle:
 
 content:
@@ -39,4 +39,5 @@ content:
     longitude: '-79.3845318'
 design:
   columns: '2'
+lang: "pt"
 ---
