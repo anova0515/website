@@ -33,8 +33,9 @@ experience:
         
         * Antitrust & Competition
         * Commercial Disputes
-        * Valuation
         * Energy Climate & Natural Resources
+        * Healthcare Litigation
+        * Valuation
   - title: Research Assistant to Alex Whalley & Lucija Muehlenbachs
     company: University of Calgary
     company_url: ''
@@ -96,7 +97,7 @@ experience:
     company: Environment and Climate Change Canada
     company_url: ''
 #    company_logo: ahs_logo
-    location: Ottawa, On, Canada
+    location: Ottawa, ON, Canada
     date_start: '2015-05-01'
     date_end: '2015-08-30'
     description: |2-
