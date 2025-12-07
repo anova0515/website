@@ -19,8 +19,8 @@ interests:
 - Environmental Economics
 last_name: Novaes de Amorim, Ph.D.
 organizations:
-- name: Groupe d'analyse/Analysis Group
-  url: https://www.groupedanalyse.ca/
+- name: Analysis Group
+  url: https://www.analysisgroup.com/
 role: Associate
 social:
 - icon: envelope
