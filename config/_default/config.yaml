@@ -13,8 +13,16 @@ baseURL: 'http://arthuramorim.info' # Website URL
 
 defaultContentLanguage: en
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 removePathAccents: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+  pt:
+    languageName: "Português"
+    weight: 2
 
 ############################
 ## MODULES
