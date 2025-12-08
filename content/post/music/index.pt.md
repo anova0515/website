@@ -4,7 +4,7 @@ math: true
 title: Música
 ---
 
-Em meu tempo livre, eu me deleito tocando piano solo ou colaboro com musicistas (mais talentosos). Algumas de minhas performances foram capturadas em vídeo. Assista se tiver coragem!
+Em meu tempo livre, eu me divirto tocando piano solo ou colaborando com outros musicistas (mais talentosos). Algumas de minhas performances foram capturadas em vídeo. Assista se tiver coragem!
 
 ## John Adams - China Gates para piano solo
 
