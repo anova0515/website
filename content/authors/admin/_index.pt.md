@@ -42,7 +42,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/amorimarthur
 superuser: true
-title: Arthur Novaes de Amorim
+title: Arthur Amorim
 lang: "pt"
 ---
 
