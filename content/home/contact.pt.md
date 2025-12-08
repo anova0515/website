@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: arthur.novaesdeamorim@analysisgroup.ca
+  email: anova0515@gmail.com
   phone: +1 (438) 529-6624
 #  address:
 #    street: First Canadian Place, 100 King St W, Suite 4410
