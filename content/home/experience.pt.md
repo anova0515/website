@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Experiências Profissional
+title: Experiências Profissionais
 subtitle:
 
 # Date format for experience
