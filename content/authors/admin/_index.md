@@ -42,7 +42,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/amorimarthur
 superuser: true
-title: Arthur Amorim
+title: Arthur Novaes de Amorim
 ---
 
 Welcome to my website!  I am an Associate at Analysis Group in Toronto and hold a Ph.D. in Economics from the University of Calgary. My research interests are on topics related to labour markets, innovation and productivity.
