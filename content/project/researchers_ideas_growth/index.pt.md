@@ -7,7 +7,7 @@ authors:
 - admin
 - Alexander Whalley
 date: "2024-11-10T00:00:00Z"
-date_print: "Current version: November 2024"
+date_print: "Versão atual: nov. 2024"
 show_date: false
 doi: ""
 featured: false
