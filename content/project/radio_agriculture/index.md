@@ -4,7 +4,7 @@ authors:
 - admin
 show_date: true
 date: "2022-11-26T00:00:00Z"
-date_print: "Current version: January 2023"
+date_print: "Current version: June 2023"
 doi: ""
 featured: false
 image:
