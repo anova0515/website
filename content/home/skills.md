@@ -32,7 +32,7 @@ feature:
 #    name: Econometrics
 
   - description: Data Visualization, Econometric Analysis
-    icon: 'STATA16_icon'
+    icon: 'Stata_Logo'
     icon_pack: "custom"
     name: Stata
 # Uncomment to use custom SVG icons.
